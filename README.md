@@ -9,6 +9,11 @@
   <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License MIT" />
 </p>
 
+<p align="center">
+  <b>🌐 Language Switcher / Chuyển đổi ngôn ngữ:</b><br>
+  <a href="README.md"><b>🇬🇧 English</b></a> &nbsp;|&nbsp; <a href="README_VI.md"><b>🇻🇳 Tiếng Việt</b></a>
+</p>
+
 ---
 
 ## 📖 Overview
