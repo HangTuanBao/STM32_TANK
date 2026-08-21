@@ -1,0 +1,25 @@
+# Build outputs
+Debug/
+Release/
+build/
+bin/
+obj/
+
+# Compiled Object files, Static and Dynamic Libraries
+*.o
+*.d
+*.su
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# STM32CubeIDE / Eclipse metadata
+.metadata/
+
+# OS specific files
+Thumbs.db
+.DS_Store
+*.swp
+*~
